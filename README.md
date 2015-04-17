@@ -1,2 +1,4 @@
 # J.A.R.V.I.S
-Desenvolvimento de um assistente pessoal, comandando por voz, para auxiliar em diversas tarefas profissionais.
+Development of a personal assistant, voice-activated to assist in various professional tasks.
+
+
